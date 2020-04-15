@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 import math
 
 #Importing data set
-train_data = pd.read_csv(r'C:\Sem VI\ELL409\Assignments\Assignment 3\data.csv')
+train_data = pd.read_csv(r'SVR.csv')
 train_data = np.matrix(train_data)
 #MEDV values
 MEDV = train_data[:,-1]
