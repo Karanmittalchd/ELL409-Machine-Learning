@@ -1,3 +1,4 @@
+#ELL409: Machine Intelligence and Learning
 1)Handwritten Digit Recognition using Neural Network: 
 - Implemented Backpropagation algorithm, without any external library, to train the neural network on MNIST
 - Studied variation with hidden layers, neurons per layer, different activation functions, batch size, learning rate
